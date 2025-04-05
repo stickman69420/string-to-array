@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 
-//% color="#FFFF00" weight=100
+//% color="#F5D547" weight=100
 namespace text {
     //% block
     export function ConvertStringToArray(text: string) {
