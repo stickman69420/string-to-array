@@ -2,8 +2,7 @@
     "name": "String to array",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "Stringify": "github:sargedev/stringify#74e9eee193ec8208a2a12d88e72c218c171a5680"
+        "device": "*"
     },
     "files": [
         "main.blocks",
